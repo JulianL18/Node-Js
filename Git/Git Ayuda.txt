@@ -15,5 +15,9 @@ git commit -m "Primer Commit"
 git config user.email "julianlopera20032@gmail.com"
 git config user.name "Julián Lopera"
 git remote add origin https://github.com/JulianL18/gitbush.git
-
 git push -u origin main
+
+Como actualizar el repositorio
+git add .
+git commit -m "Segundo Commit"
+git push -u origin
