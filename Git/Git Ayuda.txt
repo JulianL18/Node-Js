@@ -18,6 +18,11 @@ git remote add origin https://github.com/JulianL18/gitbush.git
 git push -u origin main
 
 Como actualizar el repositorio
+
 git add .
 git commit -m "Segundo Commit"
 git push -u origin
+
+Clonar
+
+git clone https://github.com/JulianL18/gitbush.git
